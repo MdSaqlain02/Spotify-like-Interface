@@ -1,4 +1,4 @@
-# 🎵 Spotify Clone UI – HTML & CSS
+# 🎵 Spotify Clone UI – HTML & CSS (https://mdsaqlain02.github.io/Spotify-like-Interface/)
 
 A simple, responsive clone of the Spotify web interface built using only **HTML** and **CSS**. This project is designed for practice and to showcase front‑end skills using clean layouts, modern UI components, and user‑friendly design.
 
